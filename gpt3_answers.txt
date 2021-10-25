@@ -1,0 +1,1649 @@
+ unstable angina or non-q-wave myocardial infarction
+treatment: roxithromycin
+ coronary-artery disease
+treatment: antichlamydial antibiotics
+ cervical carcinoma
+treatment: radical surgery or radiotherapy
+ myofascial trigger points of upper trapezius muscle
+treatment: electrotherapy
+ myofascial trigger point pain
+treatment: ens ; ems
+ obesity
+treatment: dexfenfluramine hydrochloride
+ essential hypertension
+treatment: moxonidine
+ echinococcus multilocularis
+treatment: praziquantel
+ foot infections in diabetic patients
+treatment: g-csf
+ foot infection
+treatment: g-csf
+ coronary-artery thrombi
+treatment: accelerated infusion of alteplase ( tissue plasminogen activator ) over a period of 90 minutes
+ acute myocardial infarction
+treatment: alteplase
+ rheumatoid arthritis
+treatment: arthrodesis
+ parkinson 's disease
+treatment: ropinirole
+ parkinson 's disease
+treatment: ropinirole monotherapy
+ primary cataract surgery with pc iol implantation
+treatment: pc iol implantation
+ sore throat
+treatment: antibiotics
+ sore throat
+treatment: antibiotics
+ sore throat
+treatment: antibiotics
+ sore throat
+treatment: antibiotics
+ postoperative pain relief
+treatment: epidural fentanyl ( f ) and sufentanil ( s )
+ stress urinary incontinence
+treatment: surgical procedures
+ stress urinary incontinence
+treatment: surgical treatment of female stress urinary incontinence
+ stress urinary incontinence
+treatment: surgical treatment of female stress urinary incontinence
+ stress urinary incontinence
+treatment: surgery
+ primary infertility
+treatment: donor intrauterine insemination
+ primary infertility
+treatment: partner intrauterine insemination ; donor insemination
+ gunshot wounds to the abdomen
+treatment: celiotomy
+ major pulmonary embolism
+treatment: thrombolytic treatment
+ pulmonary embolism
+treatment: thrombolysis
+ malignant pleural mesothelioma
+treatment: thoracotomy , radiotherapy , and chemotherapy
+ parkinson 's disease
+treatment: posteroventral pallidotomy
+ non-obstructive azoospermia
+treatment: tefna ; tese
+ diabetes 2
+treatment: sulfamides and biguanides ; intestinal glycosidases inhibitors and thiazolidendiones
+ cardiovascular diseases
+treatment: calcium antagonists
+ hypertension
+treatment: verapamil or diltiazem
+ acute migraine
+treatment: sumatriptan and other selective serotonin agonists
+ post-haemorrhoidectomy bleeding
+treatment: foley catheter and a pack
+ tetanus
+treatment: resuscitation treatment
+ hyperthyroidism
+treatment: iodine i-131
+ allergic diseases
+treatment: cortisone
+ complicated cancer of the large bowel
+treatment: extended resection
+ stone disease
+treatment: medical treatment of stone disease
+ urinary stones
+treatment: surgical treatment of urinary stones
+ leukemia
+treatment: hyperbaric oxygen , whole-body x irradiation , and cyclophosphamide combination therapy
+ malformations of the bones of the foot
+treatment: surgical correction of malformations of the bones of the foot
+ kwashiorkor
+treatment: fish protein concentrates
+ cavernous hemangiomas
+treatment: yag laser
+ hiv-1 infection
+treatment: antiretroviral treatment
+ verruca vulgaris
+treatment: topical cidofovir
+ colorectal cancer
+treatment: elective surgery
+ gastrointestinal tumours in the elderly
+treatment: elective surgery for gastrointestinal tumours in the elderly
+ myocardial infarction
+treatment: fixed low-dose warfarin with aspirin
+ coronary artery disease
+treatment: roxithromycin
+ cervical cancer
+treatment: radical surgery versus radiotherapy
+ anemia of end-stage renal disease
+treatment: erythropoietin
+ neutropenia
+treatment: antimicrobial therapy
+ hypertension
+treatment: moxonidine
+ echinococcus multilocularis
+treatment: praziquantel
+ diabetic foot infection
+treatment: granulocyte-colony stimulating factor
+ myocardial infarction
+treatment: alteplase
+ sore throat
+treatment: antibiotic management of sore throat
+ cancer
+treatment: cancer therapy
+ recurrent corneal erosions
+treatment: phototherapeutic keratectomy
+ arthrodesis of the first metatarsophalangeal joint
+treatment: arthrodesis of the first metatarsophalangeal joint
+ parkinson 's disease
+treatment: ropinirole
+ bronchial asthma
+treatment: non-steroidal anti-inflammatory therapy
+ female stress urinary incontinence
+treatment: surgical management of female stress urinary incontinence
+ accidental hypothermia
+treatment: extracorporeal rewarming of severe accidental hypothermia victims in accident and emergency
+ breech presentation at term
+treatment: magnetic-resonance pelvimetry
+ parotid lump
+treatment: fine needle aspiration cytology
+ advanced epithelial ovarian cancer
+treatment: second-look surgery
+ parkinson 's disease
+treatment: microelectrode-guided posteroventral pallidotomy
+ colorectal cancer
+treatment: curative surgery
+ emphysema
+treatment: lung volume reduction surgery
+ cancer
+treatment: shark cartilage
+ non-obstructive azoospermia
+treatment: testicular sperm extraction by open biopsy
+ experimental arthritis
+treatment: trk-530
+ paraphilia
+treatment: long-acting analogue of gonadotropin-releasing hormone
+ postoperative ileus
+treatment: homeopathy
+ autism
+treatment: inositol
+ cardiac insufficiency
+treatment: beta-blockers
+ hypertension
+treatment: calcium antagonists
+ serotonin agonists
+treatment: serotonin agonists
+ soft tissue principles of resection and reconstructive plastic procedures
+treatment: surgical management of soft tissue principles of resection and reconstructive plastic procedures
+ soft tissue sarcoma
+treatment: chemotherapy
+ soft tissue sarcoma
+treatment: radiotherapy
+ superficial hemosiderosis of the central nervous system
+treatment: trientine
+ common cold
+treatment: zinc gluconate lozenges
+ purpura fulminans
+treatment: protein-c concentrate , heparin , and haemodiafiltration
+  photodamage
+treatment: tocopherol
+ constipation
+treatment: cisapride
+ respiratory failure
+treatment: surfactant ( beractant )
+ molluscum contagiosum virus
+treatment: cidofovir
+ choroidal neovascularization
+treatment: external beam radiation therapy
+ refractory arrest
+treatment: bolus thrombolytic infusion
+ hiccups
+treatment: nerve stimulator
+ eisenmenger 's syndrome
+treatment: anaesthesia for laparoscopic cholecystectomy
+ esophageal cancer
+treatment: cddp , 5-fu , and vp-16
+ alzheimer 's disease
+treatment: new drug treatment for alzheimer 's disease
+ infection
+treatment: simple antiseptic mouthwashes
+ unstable angina
+treatment: aspirin plus tirofiban ; aspirin plus heparin
+ non-hodgkin 's lymphoma
+treatment: chemotherapy alone ; chemotherapy plus radiotherapy
+ idiopathic membranous nephropathy
+treatment: azathioprine and prednisolone
+ peripheral arterial occlusive disease
+treatment: chelation therapy
+ refractory esophageal stricture
+treatment: endoscopic ultrasound miniprobe-guided steroid injection
+ severe psoriasis
+treatment: systemic treatments
+ merkel cell carcinoma
+treatment: clinical management and treatment outcomes of merkel cell carcinoma
+ asthma
+treatment: inhaled sodium cromoglycate
+ cardiac operations
+treatment: normoxic cardiopulmonary bypass
+ endoluminal hemoptysis and airway obstruction
+treatment: apc
+ squamous cell lung carcinoma with sarcoidosis
+treatment: induction chemotherapy ( cisplatin + vinorelbine )
+ non-small-cell lung carcinoma
+treatment: txt , gem , cddp
+ mrcc
+treatment: il-2
+ non-seminomatous germ-cell tumors
+treatment: chemotherapy
+ non-bulky metastatic seminoma
+treatment: carboplatin and ifosfamide
+ cancer
+treatment: sp1 decoy strategy
+ lung metastasis
+treatment: mdp-lys
+ prostate cancer
+treatment: adenovirus-mediated interleukin 12 ( il-12 ) gene therapy
+ orthotopic tumors
+treatment: rm-9 cells
+ extra-thoracic micrometastases
+treatment: intensive chemotherapy
+ sblc
+treatment: radiotherapy
+ non-small cell lung cancer
+treatment: uft
+ colorectal cancer
+treatment: uft
+ non-small-cell lung cancer ( nsclc )
+treatment: irinotecan ( cpt-11 ) and cisplatin ( cddp )
+ nsclc
+treatment: cpt-11 and cddp
+ recurrent adenocarcinoma of the cervix
+treatment: paclitaxel
+ cervical adenocarcinoma
+treatment: paclitaxel
+ paranasal sinusitis
+treatment: pseudoephedrine plus acetaminophen
+ common cold
+treatment: nasal decongestant
+  colds
+treatment: antibiotics
+ influenza a virus
+treatment: pb2-as , as a complex with dmrie-c , a cationic liposome
+ acute and chronic thoracic and abdominal pain
+treatment: background and thoracic paravertebral block ( tpvb )
+ pleuritic pain
+treatment: interpleural and epidural blocks
+ pain
+treatment: tpvb
+ pleuritic pain
+treatment: paravertebral block
+ hepatic neoplasms
+treatment: mr-guided rfa using single cooled tip electrodes
+ bile duct cancer
+treatment: curative pancreaticoduodenectomy
+ lymph node and peritoneum metastases
+treatment: chronochemotherapy
+ acetaminophen overdose
+treatment: n-acetylcysteine
+ drug-induced hepatitis
+treatment: corticosteroids
+ esophagorespiratory fistulas
+treatment: covered-ems
+ endocarditis , meningitis , infection in neutropenic patients
+treatment: cell wall-active antibiotic to which the enterococcus is susceptible ( ie , certain beta-lactams or vancomycin ) plus an amin
+ fungal infections
+treatment: fluconazole and itraconazole
+ inflammatory skin diseases
+treatment: topical corticosteroids
+ atopic dermatitis
+treatment: tacrolimus and ascomycin derivatives
+ bronchiolitis obliterans occurring as a late manifestation of lupus erythematosus
+treatment: cyclophosphamide
+ aecb
+treatment: gemifloxacin
+ rheumatoid arthritis ; primary biliary cirrhosis ; scleroderma ; fibrotic lung diseases ; progressive systemic sclerosis
+treatment: d-penicillamine
+ non-small cell lung cancer ( nsclc )
+treatment: surgery alone is curative in only two-thirds of cases and post-operative radiotherapy ( rt ) provides only weak control of advanced-stage disease
+ n2 nsclc
+treatment: gemcitabine/cisplatin
+ nsclc
+treatment: chemotherapy
+ unresectable stage iii nsclc
+treatment: sequential chemotherapy followed by radiation
+ small cell lung cancer
+treatment: gemcitabine/carboplatin
+ advanced non-small cell lung cancer
+treatment: gemcitabine and carboplatin
+ mplc
+treatment: aggressive surgical approach
+ small cell lung cancer ( sclc )
+treatment: prophylactic cranial irradiation ( pci ) with a 6 mev linear accelerator
+ sclc
+treatment: surgery
+ nsclc
+treatment: paclitaxel , docetaxel , vinorelbine , gemcitabine and irinotecan
+ nsclc
+treatment: platinum-based chemotherapy
+ nsclc
+treatment: these aggressive chemotherapeutic combinations
+ bronchogenic carcinoma
+treatment: carinal resection
+ bronchogenic carcinoma
+treatment: carinal resection
+ acute nd chronic lung allograft rejection
+treatment: extracorporeal photopheresis
+ bos
+treatment: extracorporeal photopheresis
+ bos
+treatment: extracorporeal photopheresis
+ early bos
+treatment: extracorporeal photopheresis
+ locally advanced non-small-cell lung cancer ( la-nsclc )
+treatment: cmt ; chemotherapy and radiotherapy
+ sclc
+treatment: combination chemotherapy
+ acute lymphoblastic leukemia
+treatment: chemotherapy
+ poor response to induction chemotherapy
+treatment: wli
+ radiation-induced myelopathy
+treatment: heparin and enoxaparin
+ radiation-induced spinal cord injury
+treatment: anticoagulant therapy
+ radiation-induced myelopathy
+treatment: heparin and/or enoxaparin
+ lung cancer ; esophageal cancer
+treatment: expandable metal stents
+ gh-producing tumors
+treatment: peri- and postoperative management
+ small cell lung cancer
+treatment: thoracic irradiation
+ previously untreated limited small cell lung cancer
+treatment: etoposide ( vp-16 ) -ifosfamide-cisplatin ( vip ) combination chemotherapy plus early concurrent thoracic irradiation
+ limited small cell lung cancer
+treatment: etoposide-ifosfamide-cisplatin and concurrent thoracic irradiation
+ small cell lung cancer
+treatment: vip combination chemotherapy and early concurrent thoracic irradiation
+ n 2 nsclc
+treatment: complete surgical resection
+ n 2 nsclc
+treatment: surgery
+ asthma
+treatment: inhaled corticosteroid therapy
+ non-small cell lung cancer ( nsclc )
+treatment: surgical staging
+ locally advanced and metastatic non-small-cell lung cancer ( nsclc )
+treatment: paclitaxel plus gemcitabine
+ malignant pleural effusion from nsclc
+treatment: systemic chemotherapy
+ nsclc
+treatment: combination chemotherapy of cisplatin , ifosfamide , and irinotecan with recombinant human granulocyte colony-stimulating factor support
+ malignant pleural effusion from nsclc
+treatment: both the response rate and survival data in this retrospective study suggest a high degree of activity of this combination chemotherapy in patients with malignant pleural effusions from nsclc
+ small-cell lung cancer
+treatment: chemotherapy
+ lung cancer
+treatment: chemotherapy and/or thoracic radiotherapy
+ lung cancer
+treatment: mitomycin c in addition to cisplatin-based regimens for patients with lung cancer
+ osteosarcoma of the extremities
+treatment: neoadjuvant chemotherapy
+ osteosarcoma of the extremities
+treatment: neoadjuvant chemotherapy
+ intraluminal early-stage cancer
+treatment: photodynamic therapy , nd-yag laser and electrocautery for intraluminal early-stage cancer
+ non-small cell lung cancer
+treatment: uft
+ neuroendocrine neoplasms of the lung
+treatment: review of our experience with the spectrum of neuroendocrine neoplasms of the lung
+ neuroendocrine carcinoma
+treatment: lung resection
+ high-grade neuroendocrine tumors of the lung
+treatment: surgery
+ non-small-cell lung cancer ( nsclc )
+treatment: high-dose radiotherapy ( rt )
+ supraclavicular node metastases in nsclc
+treatment: chemoradiotherapy
+ nsclc
+treatment: cisplatin and radiotherapy
+ nsclcm
+treatment: low-dose cisplatin and radiotherapy
+ esophageal and tracheobronchial stenoses
+treatment: stents
+ esophageal cancer ; tracheobronchial cancer
+treatment: stents
+ esophageal stenosis
+treatment: covered or noncovered metallic stents
+ tracheobronchial stenosis
+treatment: silicone stents
+ dysphagia and respiratory symptoms
+treatment: stent therapy
+ esophageal and tracheobronchial stenosis
+treatment: stent
+ esophageal cancer
+treatment: covered metallic stent
+ osteogenic sarcoma
+treatment: t12 protocol
+ osteogenic sarcoma
+treatment: her2/erbb-2
+ lung carcinoma
+treatment: ninjin yoei to ( nyt ; ren-shen-yang-rong-tang in chinese medicine ; kotaro pharmaceutical co. , ltd. , osaka , japan
+ lung carcinoma
+treatment: nyt ( 15 g/d )
+ malignancy
+treatment: nyt
+ lung carcinoma
+treatment: videothoracoscopic procedures for patients with lung carcinoma
+ lung cancer
+treatment: surgical treatment
+ lung carcinoma
+treatment: lobectomy or partial resection of the lung
+ solitary pulmonary metastasis
+treatment: thoracoscopic partial resection of the lung
+ lung carcinoma
+treatment: curative therapy
+ multiple cerebral metastases
+treatment: gks ; wbrt
+ gks
+treatment: gks
+ gks
+treatment: gks
+ cerebral metastases from nonsmall cell cancer
+treatment: gamma knife radiosurgery without prophylactic wbrt
+ nsclc
+treatment: docetaxel
+ multiple cerebral metastases
+treatment: gks ; wbrt
+ breast , melanoma , renal cell , and ovarian carcinoma brain metastasis
+treatment: surgical resection and wbrt
+ colorectal carcinoma
+treatment: vats therapeutic pulmonary metastasectomy of colorectal carcinoma
+ peripheral colorectal pulmonary metastases
+treatment: therapeutic metastasectomy of peripheral colorectal pulmonary metastases
+ colorectal metastases
+treatment: therapeutic vats metastasectomy
+ colorectal metastases
+treatment: therapeutic vats resection of colorectal metastases
+ nsclc
+treatment: 
+ limited-stage small-cell carcinoma of the lung
+treatment: combined-modality therapy
+ small-cell carcinoma
+treatment: taxanes and topoisomerase i inhibitors
+ brain metastases from nsclc
+treatment: chemotherapy
+ nsclc
+treatment: combination chemotherapy of cisplatin , ifosfamide and irinotecan with rhg-csf support
+ brain metastases from nsclc
+treatment: chemotherapy
+ metastatic melanoma
+treatment: interferon-alpha2b and interleukin-2
+ small cell lung cancer ( sclc )
+treatment: chemotherapy ( ct )
+ metastatic colorectal cancer
+treatment: intravenous oxaliplatin
+ liver metastases
+treatment: neoadjuvant therapy with oxaliplatin/fluorouracil/folinic acid
+ liver metastases
+treatment: surgery with curative intent
+ ovarian cancer
+treatment: oxaliplatin/cyclophosphamide
+ platinum-pretreated ovarian cancer
+treatment: oxaliplatin
+ non-hodgkin 's lymphoma ; breast cancer ; mesothelioma ; non-small cell lung cancer
+treatment: oxaliplatin
+ metastatic colorectal cancer
+treatment: oxaliplatin in combination with fluorouracil/folinic acid
+ platinum-pretreated ovarian cancer
+treatment: oxaliplatin
+ nsclc
+treatment: combined modality treatment
+ bronchogenic carcinoma
+treatment: resection
+ carcinoma of the lung
+treatment: lymph node immunoreactivity and li
+ non-small cell lung cancer
+treatment: paclitaxel and carboplatin
+ sclc
+treatment: platinum-based combination chemotherapy , with thoracic irradiation added for patients with limited-stage disease
+ sclc
+treatment: several newer chemotherapeutic drugs
+ squamous cell carcinoma in the residual left lung
+treatment: completion pneumonectomy of the left lung
+ lung cancer with chest wall invasion
+treatment: en-bloc resection
+ nsclc
+treatment: radical en-bloc resection of non-small cell lung cancer ( nsclc ) with chest wall involvement
+ primary lung cancer
+treatment: complete pulmonary resection for primary lung cancer accompanied by satellite nodules in the same lobe as the primary
+ primary lung cancer
+treatment: resection
+ small cell lung cancer ( sclc )
+treatment: chemotherapy
+ n2 tumors
+treatment: postoperative irradiation
+ non-small cell lung cancer ( nsclc )
+treatment: surgical resection
+ nsclc
+treatment: chemotherapy administered postoperatively ( adjuvant ) or preoperatively ( neoadjuvant or induction )
+ stage iii nsclc
+treatment: chemotherapy administered before surgery or definitive irradiation
+ nsclc
+treatment: pulmonary resection
+ small cell lung cancer
+treatment: prophylactic cranial irradiation
+ small cell lung cancer in complete remission
+treatment: prophylactic cranial irradiation
+ small cell lung cancer in complete remission
+treatment: review 's prophylactic cranial irradiation
+ non-small cell lung cancer
+treatment: gemcitabine
+ nsclc
+treatment: novel treatment strategies for patients with advanced nsclc
+ small-cell lung cancer
+treatment: combination chemotherapy
+ small-cell lung cancer
+treatment: irinotecan
+ small-cell lung cancer
+treatment: irinotecan in combination with cisplatin ( platinol )
+ small-cell lung cancer
+treatment: irinotecan and cisplatin combination
+ small-cell lung cancer ( sclc )
+treatment: gemcitabine ; etoposide
+ sclc
+treatment: gemcitabine 1000 mg/m2 , days 1 , 8 and 15 ; etoposide 80 mg/m2 , days 8 , 9 and 10
+ small-cell lung cancer
+treatment: ifosfamide in combination with paclitaxel and carboplatin
+ resistant sclc
+treatment: ifosfamide 2000 mg/m2 in combination with paclitaxel 175 mg/m2 and carboplatin auc 6 mg/ml min administered on the first day of a 21-day
+ lung cancer
+treatment: endobronchial treatment modalities
+ lung cancer
+treatment: endobronchial treatment modalities
+ lung cancer
+treatment: endobronchial interventions
+ lung cancer
+treatment: lobectomy or pneumonectomy on the tumor baring lung and ipsilateral hilar and mediastinal lymphadenectomy including subcarinal lymph nodes
+ small cell lung cancer
+treatment: chemotherapy
+ symptomatic metastases in bone or brain
+treatment: radiotherapy
+ intrathoracic relapse and severe obstruction of main bronchus and/or superior caval vein
+treatment: radiotherapy
+ sclc
+treatment: bec-2
+ sclc
+treatment: matrix metalloproteinase inhibitors
+ colon cancer
+treatment: 5-fu and low-dose isovorin ( f.i )
+ lung cancer
+treatment: radiation therapy
+ primary cancer of the lung
+treatment: radiation therapy
+ metastatic transitional cell carcinoma of the bladder and renal failure
+treatment: paclitaxel and carboplatin
+ nonsmall cell lung carcinoma ( nsclc )
+treatment: carboplatin plus gemcitabine ; paclitaxel
+ nsclc
+treatment: planned sequential chemotherapy
+ non-small-cell lung cancer
+treatment: surgical resection
+ non -- small-cell lung cancer
+treatment: paclitaxel plus carboplatin ( pc ) ; vinorelbine plus cisplatin ( vc )
+ non -- small-cell lung cancer
+treatment: pc ; vc
+ small-cell lung cancer ( sclc )
+treatment: carboplatin alone ; carboplatin and cisplatin in combination
+ sclc
+treatment: intensification of platinum dose ( cisplatin plus carboplatin ) in combination chemotherapy
+ small cell lung cancer ( sclc )
+treatment: tc-tf accumulation in untreated sclc
+ sclc
+treatment: tc-tf chest scintigraphy
+ metastasis
+treatment: exploratory interventions , partial tumor resections and lung resections for metastasis
+ pulmonary hypertension
+treatment: pulmonary angiography
+ ld sclc
+treatment: pci
+ ld sclc
+treatment: pci
+ neutropenia
+treatment: rhg-csf
+ ovarian cancer
+treatment: cisplatin 100 mg/m2 and cyclophosphamide 1000 mg/m2 every 3 weeks with or without pretreatment with intravenous amifostine 910 mg/m2
+ haematological , renal and neurological treatment delays , treatment discontinuation and days in hospital related to these adverse events
+treatment: amifostine
+ lung cancer
+treatment: amifostine ( 340 mg/m2 )
+ myelodysplastic syndrome
+treatment: amifostine
+ myelodysplastic syndrome
+treatment: amifostine
+ lung cancer
+treatment: minimally invasive direct coronary artery bypass and left lower lobectomy with video-endoscopic assistance
+ carbon monoxide poisoning
+treatment: 100 % oxygen therapy
+ status epilepticus
+treatment: phenytoin
+ baclofen overdose
+treatment: atropine
+ baclofen overdose
+treatment: atropine
+ acute myocardial infarction
+treatment: left ventricular assist device
+ anasarca and acute renal failure
+treatment: continuous arteriovenous hemofiltration
+ acute renal dysfunction
+treatment: continuous renal replacement therapy
+ end-stage renal disease
+treatment: continuous arterio-venous hemofiltration in a wearable device to treat end-stage renal disease
+ profound neuromuscular blockade
+treatment: neostigmine 0.07 mg kg-1 and edrophonium 0.8 mg kg-1
+ neuromuscular blockade
+treatment: atracurium
+ psoriasis vulgaris
+treatment: 1 alpha-hydroxyvitamin d3 ; 1 alpha , 25-dihydroxyvitamin d3 ; 1 alpha , 25-dihydroxyvitamin d3 applied topically
+
+ psoriasis
+treatment: active metabolites of vitamin d3
+ psoriasis
+treatment: topical application of active vitamin d3 analogue , 1 alpha , 24-dihydroxycholecalciferol
+ psoriasis
+treatment: 1 alpha , 24 ( oh ) 2d3
+ erythema
+treatment: indomethacin
+ erythema
+treatment: indomethacin
+ retinal dialysis ; lens dislocation requiring extraction
+treatment:  
+ rheumatoid arthritis ( ra )
+treatment: corticosteroid
+ rheumatoid arthritis
+treatment: steroid therapy
+ rheumatoid arthritis ( ra )
+treatment: methotrexate ( mtx )
+ rheumatoid arthritis
+treatment: mtx in a low-dose regimen
+ rheumatoid arthritis
+treatment: antilymphocyte globulin ( alg ) , prednisolone and a cytotoxic agent , usually azathioprine
+ ureteric experience
+treatment: rigid ureteroscopy
+ ureteric calculi
+treatment: rigid ureteroscopy
+ vesicoureteric reflux
+treatment: endoscopic injection of pyrolised polytetrafluoroethylene ( polytef ) paste
+ advanced prostatic cancer
+treatment: orchiectomy or oestrogen
+ extensive burns
+treatment: scarred flaps and secondary flaps
+ vesico-enteric fistula
+treatment: resection of the small intestine and dome of the bladder and drainage of the intervening abscess
+ third and sixth nerve palsy
+treatment: supramaximal horizontal rectus surgery
+ sixth nerve palsy ; third nerve palsy
+treatment: supramaximal medial and lateral rectus surgery
+ proteinuria
+treatment: steroid therapy
+ disseminated malignant melanoma
+treatment: rifn-alpha a
+ disseminated malignant melanoma
+treatment: rifn-alpha a , roferon-a , hoffmann la roche ; cimetidine
+ advanced malignant melanoma
+treatment: rifn-alpha a
+ breast cancer
+treatment: combination chemotherapy
+ metastatic breast cancer
+treatment: doxorubicin-containing chemotherapy
+ metastatic dysgerminoma of the ovary
+treatment: etoposide , bleomycin , and cisplatin
+ metastatic dysgerminoma
+treatment: chemotherapy
+ metastatic malignant germ cell tumors
+treatment: cisplatin-based combination chemotherapy
+ mycosis fungoides
+treatment: bleomycin , doxorubicin , and methotrexate with topical nitrogen mustard ( bam-m )
+ mycosis fungoides
+treatment: bam-m
+ splenomegaly
+treatment: splenectomy
+ mycosis fungoides
+treatment: bam-m
+ head and neck cancer
+treatment: ommaya placement
+ micrometastases
+treatment: additional chemotherapy
+ malignant pleural effusion
+treatment: thoracentesis or tube drainage with instillation of irritants
+ malignant pleural effusion
+treatment: pleuroperitoneal shunting
+ right ventricular failure
+treatment: volume loading , correction of hypoxia and acidosis , inotropic support of the right ventricle
+ refractory right ventricular failure following the surgical repair of congenital cardiac defects in which the placement of right atrial and pulmonary artery cannulae is not technically feasible
+treatment: high-frequency high-volume ventilation
+ severe rv failure
+treatment: rhbp
+ ventricular tachycardia
+treatment: preoperative endocardial catheter mapping
+ ventricular tachycardia
+treatment: procainamide
+ coronary angioplasty for early postinfarction unstable angina
+treatment: coronary angioplasty for early postinfarction unstable angina
+ myocardial infarction
+treatment: coronary angioplasty
+ angina
+treatment: angioplasty
+ coronary dissection and total coronary occlusion leading to emergency coronary surgery
+treatment: ptca
+ influenza
+treatment: zanamivir
+ acute exacerbations of chronic bronchitis
+treatment: cefdinir ; loracarbef
+ community-acquired bacterial meningitis
+treatment: cefotaxime or ceftriaxone ; vancomycin
+ listeria monocytogenes
+treatment: ampicillin
+ bacterial meningitis
+treatment: dexamethasone
+ common cold infections
+treatment: vitamin c supplementation
+ colds
+treatment: vitamin c
+ community-acquired pneumonia
+treatment: levofloxacin ; ceftriaxone ; amoxicillin/clavulanate
+ cancer
+treatment: resection
+ extrahepatic bile duct carcinoma
+treatment: resection of extrahepatic bile duct carcinoma
+ pulmonary disorders
+treatment: n-acetylcysteine ( nac ) and ambroxol ( amb )
+ respiratory disease
+treatment: antimicrobial therapy
+ croup
+treatment: corticosteroids
+ non-functioning endocrine pancreatic tumor with progressive liver and lymph node metastases
+treatment: lanreotide
+ metastatic nets of the gep system
+treatment: octreotide lar 20 mg
+ cholestasis
+treatment: inchinko-to ( tj-135 )
+ hepatitis
+treatment: tj-135
+ con a-induced hepatitis
+treatment: pretreatment with tj-135
+ severe acute hepatitis accompanying cholestasis or autoimmune hepatitis
+treatment: tj-135
+ common colds
+treatment: zinc lozenges
+ asthma
+treatment: t-helper type 2 cell-directed therapy for asthma
+ concanavalin a-induced hepatitis
+treatment: inchinko-to
+ presumed cavernomas
+treatment: radiation for malignancy ( 5-6 ) ; sterotactic cerebral biopsy ( 7 )
+ syringomyelia associated with spinal adhesive arachnoiditis
+treatment: surgical management of syringomyelia associated with spinal adhesive arachnoiditis
+ cryptococcal meningitis
+treatment: secondary prophylaxis for cryptococcal meningitis
+ cholangiocarcinoma
+treatment: hepatectomy
+ bronchiectasis
+treatment: antibiotics , antibronchoobstructive medication , and chest physical therapy
+ severe , generalized bronchiectasis and respiratory failure
+treatment: bilateral lung transplantation
+ bronchiectasis
+treatment: antibiotics and surgery
+ common cold
+treatment: zinc
+ cold symptoms
+treatment: zinc lozenges
+ cold symptoms
+treatment: zinc lozenges
+ cold symptoms
+treatment: zinc lozenges
+ chronic hepatitis c resistant to interferon
+treatment: interferon-alpha plus ursodeoxycholic acid
+ renal cell carcinoma
+treatment: hepatic arterial embolization
+ inoperably disseminated renal carcinoma and lung metastases
+treatment: immunotherapy for inoperably disseminated renal carcinoma and lung metastases
+ liver metastasis
+treatment: transcatheter arterial embolization ( tae )
+ heartburn and regurgitation
+treatment: pharmaceutically combined with life style counselling
+ persistent severe regurgitation during medical therapy
+treatment: surgical treatment
+ lung lacerations and major bronchial disruptions caused by blunt thoracic trauma
+treatment: surgical treatment of lung lacerations and major bronchial disruptions caused by blunt thoracic trauma
+ biliary dyskinesia
+treatment: cholecystectomy
+ biliary dyskinesia
+treatment: cholecystectomy
+ biliary dyskinesia
+treatment: cholecystectomy
+ biliary dyskinesia
+treatment: cholecystectomy
+ biliary dyskinesia
+treatment: cholecystectomy
+ bronchiolitis obliterans organizing pneumonia
+treatment: corticosteroids
+ advanced non-small cell lung cancer
+treatment: novel treatment strategies for patients with advanced nsclc
+ common cold
+treatment: pseudoephedrine plus acetaminophen
+ pulmonary aspergilloma
+treatment: aggressive pulmonary resection
+ pulmonary aspergilloma
+treatment: surgery
+ lung abscess
+treatment: video-assisted thoracoscopic surgery
+ cholangiocarcinoma
+treatment: trail
+ human cholangiocarcinoma
+treatment: trail
+ human cholangiocarcinoma
+treatment: trail
+ viral infections
+treatment: interferon
+ asthma
+treatment: intensive chemotherapy
+ acute lymphoblastic leukemia and non-hodgkin lymphoma
+treatment: chemotherapy
+ miliary tuberculosis
+treatment: antituberculous drugs
+ hemorrhage
+treatment: microcoil embolization
+ allergic rhinitis
+treatment: acupuncture
+ chronic hepatitis b
+treatment: lamivudine
+ asthma
+treatment: wdta
+ surgical jaundice
+treatment: percutaneous transhepatic biliary drainage
+ hepatitis a virus ( hav )
+treatment: immunoadhesin containing the cysteine-rich region of hav cellular receptor-1
+ hodgkin 's disease
+treatment: abvd chemotherapy
+ meta-analysis
+treatment: glucocorticoids
+ asthma
+treatment: inhaled corticosteroids
+ colic
+treatment: casein hydrolysate feedings
+ cgm of undetermined cause
+treatment: antimicrobial/ antituberculous agents
+ chronic asthma
+treatment: s-ecp
+ acute nasopharyngitis ( anp )
+treatment: antibiotic treatment in acute nasopharyngitis ( anp )
+ head lice
+treatment: 1 % permethrin
+ crawling lice
+treatment: pediculicide containing 1 % permethrin
+ louse control
+treatment: permethrin
+ salmonella meningitis
+treatment: antibiotics
+ pancreatitis
+treatment: contrast
+ influenza-associated acute encephalopathy
+treatment: mild hypothermia and steroid pulse therapy
+ anaerobic pleuropulmonary infections
+treatment: antibiotic therapy and surgical interventions
+ spontaneous carotid-cavernous fistula in ehlers-danlos syndrome
+treatment: transvenous occlusion with guglielmi detachable coils
+ symptoms of a common cold
+treatment: macrolide antibiotics
+ rhinovirus colds
+treatment: clarithromycin
+ multidrug resistant tuberculosis
+treatment: therapeutic pneumothorax ( tp )
+ tuberculosis
+treatment: tp
+ common cold
+treatment: acupuncture
+ hemobilia-associated pancreatitis
+treatment: surgical or radiological methods
+ biliary stenosis
+treatment: minocycline hydrochloride
+ ruptured horn
+treatment: excision of the ruptured horn
+ asthma
+treatment: therapy designed to control the efferent phase of established asthma
+ croup
+treatment: glucocorticoids
+ respiratory tract infections
+treatment: levofloxacin
+ streptococcus pneumoniae
+treatment: levofloxacin
+ acute exacerbation of chronic bronchitis ; community-acquired pneumonia
+treatment: levofloxacin
+ hiv infection
+treatment: haart
+ influenza a2 ( h2n2 ) virus
+treatment: gingyo-san and its components
+ influenza a2 virus
+treatment: gingyo-san
+ recurrent abdominal pain
+treatment: antimicrobial treatment
+ h. pylori infection
+treatment: omeprazole , amoxicillin , and clarithromycin
+ helicobacter pylori infection
+treatment: omeprazole , amoxicillin , and clarithromycin
+ bacterium
+treatment: combined therapy
+ gallstones and their complications
+treatment: interventional radiologic procedures
+ asthma
+treatment: salbutamol
+ asthma
+treatment: inhaled salbutamol
+ common cold ; diarrhea
+treatment: antimicrobials
+ postoperative alkaline reflux gastritis
+treatment: surgery
+ gastric cancer
+treatment: billroth ii subtotal gastrectomy
+ postoperative alkaline gastric reflux
+treatment: roux-en-y gastrojejunostomy
+ gastric cancer
+treatment: drainage methods for the gastric conduit after esophagectomy for carcinoma
+ asthma
+treatment: inhaled corticosteroids
+ asthma
+treatment: fluticasone propionate
+ asthma
+treatment: inhaled fluticasone propionate
+ asthma
+treatment: inhaled fluticasone propionate
+ asthma
+treatment: inhaled fluticasone propionate
+ asthma
+treatment: fluticasone propionate
+ chronic hepatitis c
+treatment: ifn alpha plus ribavirin
+ hepatitis c
+treatment: ribavirin
+ hiv infection
+treatment: combination therapy
+ hepatitis c viremia
+treatment: ribavirin in combination with ifn alpha
+ cbd stones
+treatment: surgical clearance of cbd stones
+ cbd stones
+treatment: es
+ gastroesophageal reflux disease ( gerd )
+treatment: cholecystectomy
+ ahf
+treatment: ahf
+ abscesses
+treatment: ct-controlled drainage with a basket catheter system
+ colds
+treatment: pl granule
+ arrhythmogenic right ventricular dystrophy
+treatment: amiodarone
+ severe hypoxemia
+treatment: glucocorticoid pulse therapy
+ gastroduodenal ulcer
+treatment: partial gastrectomy with roux-en-y gastrojejunostomy
+ asthma
+treatment: inhaled fluticasone propionate ( fp )
+ asthma
+treatment: fp
+ amoxicillin , cefuroxime axetil , and ceftriaxone
+treatment: amoxicillin , cefuroxime axetil , and ceftriaxone
+ acute otitis media ( aom )
+treatment: amoxicillin , trimethoprim/sulfamethoxazole ( tmp/smx ) , or high-dose amoxicillin/clavulanate (
+ acute otitis media ( aom )
+treatment: amoxicillin
+ liver failure
+treatment: liver-assist devices
+ acute abdominal pain
+treatment: opioid analgesic administration
+ gastric cancer or peptic ulcer
+treatment: gastrectomy for gastric cancer or peptic ulcer
+ chronic hepatitis c
+treatment: ribavirin
+ chronic hepatitis c
+treatment: interferon alfa and ribavirin
+ chronic hepatitis c
+treatment: combination therapy with interferon alfa and ribavirin
+ inflammation of the oral mucosa ; blenorrhea ; asthmatic bronchitis ; nasal congestion
+treatment: sida cordifolia l.
+ tuberculosis
+treatment: mycobacterium vaccae immunotherapy
+ severe colitis
+treatment: tacrolimus
+ ulcerative or crohn 's colitis
+treatment: tacrolimus
+ cytomegalovirus ( cmv ) infection
+treatment: highly active antiretroviral therapy ( haart )
+ rsv bronchiolitis
+treatment: 
+ infant rsv bronchiolitis
+treatment: inhaled corticosteroid treatment
+ primary sclerosing cholangitis ( psc )
+treatment: budesonide
+ chronic hepatitis b virus infection
+treatment: interferon and lamivudine
+ depression
+treatment: amitriptyline 75 mg at night
+ meningococcaemia
+treatment: protein-c concentrate ; continuous veno-venous haemodiafiltration ; conventional treatment
+ ultraviolet-induced damage to the epidermis
+treatment: topical dl-alpha-tocopherol ( vitamin e )
+ idiopathic constipation
+treatment: cisapride
+ constipation
+treatment: cisapride , 0.2 mg/kg three times daily
+ treatment-resistant bilateral cmv retinitis
+treatment: intravenous cidofovir therapy
+  
+treatment: cidofovir
+ cmv retinitis
+treatment: intravenous cidofovir therapy
+ advanced mcv lesions
+treatment: cidofovir
+ human immunodeficiency virus (hiv) infection
+treatment: cidofovir
+ age-related macular degeneration ( amd )
+treatment: external beam radiation therapy
+ myocardial infarction
+treatment: thrombolytic therapy
+ ventricular fibrillation ; pulseless ventricular tachycardia
+treatment: tissue plasminogen activator
+ myocardial infarction
+treatment: bolus thrombolytic infusions during cpr
+ breast cancer
+treatment: subcutaneous mastectomy and immediate reconstruction with a prosthesis
+ refractory esophageal stricture
+treatment: local injection of corticosteroids into refractory esophageal strictures
+ severe ultraviolet b ( uvb ) , photochemotherapy ( puva ) , methotrexate ( mtx ) , retinoids ( ret ) and cyclosporin a ( cya )
+treatment: systemic treatments
+ chronic renal failure
+treatment: pn solutions
+ proximal hypospadias
+treatment: tubularized incised plate urethroplastym
+ hypospadias
+treatment: tubularized incised plate urethroplasty
+ penoscrotal hypospadias
+treatment: tubularized incised plate surgery
+ hypospadias
+treatment: tubularized incised plate urethroplasty
+ ischemic heart disease
+treatment: aortocoronary bypass grafting
+ cancer
+treatment: heat shock protein preparations derived from autologous cancer
+ testicular relapse
+treatment: bmt
+ schizophrenia
+treatment: olanzapine
+ schizophrenia
+treatment: olanzapine
+ bone marrow disease
+treatment: fludarabine and ara-c
+ relapsed pediatric leukemias
+treatment: fludarabine
+ thrombotic disorders
+treatment: heparin
+ unstable angina
+treatment: ufh or enoxaparin
+ acute occlusion of the middle cerebral artery
+treatment: pta
+ infection
+treatment: screen-and-treat
+ chronic carriers of hbv
+treatment: lamivudine
+ acute myocardial infarction
+treatment: transfer to an angioplasty center for primary angioplasty
+ acute myocardial infarction
+treatment: primary angioplasty
+ forehead soft tissue mass
+treatment: endoscopic removal of a forehead soft tissue mass
+ benign prostatic hyperplasia ( bph )
+treatment: pharmacological treatment of bph
+ hepato-biliary dysfunction and digestive complaints
+treatment: artichoke extracts ( cynara scolymus l. )
+ rheumatic pain
+treatment: herbal medicine
+ degenerative painful rheumatism
+treatment: devil 's claw ( harpagophytum procumbens )
+ inflammatory and autoimmune diseases
+treatment: hdivig
+ dermatomyositis ; autoimmune bullous disorders ; epidermolysis bullosa acquisita ; pemphigoid ; pemphigus
+treatment: hdivig
+ dermatomyositis
+treatment: hdivig
+ large midline incisional hernias
+treatment: autologous repair
+ nonmalignant pain
+treatment: intrathecal morphine
+ empyema
+treatment: thoracoscopy
+ capd
+treatment: apd
+ recurrent pericarditis
+treatment: colchicine
+ cancer chemotherapy
+treatment: cancer chemotherapy
+ low-grade nhl
+treatment: high-dose radiation and cytotoxic agents , administered alone or in combination ; high-dose therapy with stem cell transplant
+ low-grade or transformed low-grade nhl
+treatment: mabs
+ low-grade non-hodgkin lymphoma
+treatment: mabs
+ non-hodgkin lymphoma
+treatment: radiolabeled mabs , administered alone or in combination with cytotoxic agents
+ colorectal cancer
+treatment: uft
+ large-bowel cancer
+treatment: uft ( approximately 50 mg/dose ) ; oral lv ( approximately 50 mg/dose )
+ colorectal cancer
+treatment: uft
+ phaeochromocytoma
+treatment: adrenalectomy
+ hereditary phaeochromocytoma
+treatment: adrenal-sparing surgery
+ type 2 diabetes
+treatment: troglitazone
+ chronic myelogenous leukemia
+treatment: interferon alfa-2a
+ advanced malignant melanoma
+treatment: rifn alfa-2a
+ malignant melanoma
+treatment: interferon alfa-2a
+ renal cell carcinoma
+treatment: interferon alpha preparations
+ renal cell carcinoma
+treatment: interferons beta and gamma
+ hairy cell leukemia
+treatment: antileukemic therapy
+ hypersplenism
+treatment: splenectomy
+ low-grade non-hodgkin 's lymphoma
+treatment: interferon alpha
+ low-grade non-hodgkin 's lymphoma
+treatment: interferon
+ low-grade non-hodgkin 's lymphoma
+treatment: interferon and cytotoxic drugs
+ chronic myelogenous leukemia ( cml )
+treatment: interferons
+ cml , ph1-positive
+treatment: interferon alfa-2a
+ neoplastic disorders
+treatment: recombinant human interferon alfa-2a
+ locally advanced squamous cell carcinoma of the head and neck ( scchn )
+treatment: docetaxel , cisplatin , fluorouracil ( 5-fu ) , and leucovorin ( tpfl5
+ scchn
+treatment: tpfl5
+ labor analgesia
+treatment: intrathecal sufentanil
+ partial seizures
+treatment: lamotrigine ( ltg )
+ partial seizures
+treatment: ltg
+ partial seizures
+treatment: ltg
+ bipolar disorder
+treatment: omega3 fatty acids
+ bipolar disorder
+treatment: omega3 fatty acids
+ bipolar disorder
+treatment: omega3 fatty acids
+ ami
+treatment: thrombolytic therapy , beta blockers , and aspirin
+ hypercholesterolaemia
+treatment: fluvastatin 40 mg daily
+ fap ; multiple ( more than 30 ) colorectal polyps
+treatment: dha-concentrated fish oil capsules_hlk427554600 ( 2.2 g of dha and 0.6 g of
+ esophageal achalasia
+treatment: botulinum toxin injection , pneumatic dilation , and laparoscopic myotomy
+ abnormal uterine bleeding
+treatment: therapeutic hysteroscopy
+ malignant brain tumors
+treatment: gene therapy
+ irritable bowel syndrome
+treatment: chinese herbal
+ hepatitis c virus
+treatment: interferon alpha2b plus ribavirin
+ thromboembolic disease in pregnancy
+treatment: low-molecular-weight heparin
+ proximal hypospadias
+treatment: tubularized incised plate hypospadias repair
+ prostate cancer
+treatment: radical prostatectomy ; iodine 125 interstitial radiotherapy
+ acute dental pain
+treatment: acupuncture
+ cardiac defects
+treatment: correction of cardiac defects through a right thoracotomy
+ paracolostomy hernias
+treatment: mesh repair
+ cancer
+treatment: immunotherapy of tumors with autologous tumor-derived heat shock protein preparations
+ short-bowel syndrome
+treatment: modified diet
+ multiple sclerosis
+treatment: glatiramer acetate ( copaxone )
+ sickle cell disease
+treatment: hydroxyurea
+ sore throat
+treatment: antibiotics
+ croup
+treatment: steroid delivery
+ colles ' fractures
+treatment: haematoma block versus intravenous regional anaesthesia in colles ' fractures
+ acute middle cerebral artery occlusion
+treatment: direct percutaneous transluminal angioplasty
+ tetanus
+treatment: magnesium sulphate
+ heart failure ; chronic atrial a
+treatment: atrioventricular junction ablation and vvir pacemaker versus pharmacological treatment
+ ventral hernias
+treatment: repair of ventral hernias with expanded polytetrafluoroethylene patch
+ episodic tension-type a
+treatment: spinal manipulation
+ fulminant reactivated hepatitis b infection following intensive therapy for high-grade non-hodgkin 's lymphoma
+treatment: lamivudine
+ myocardial infarction
+treatment: primary angioplasty
+ advanced sarcomas
+treatment: chemotherapy
+ acute humoral rejection in kidney transplantation
+treatment: plasma exchange and tacrolimus-mycophenolate rescue
+ cerebral palsy
+treatment: hyperbaric oxygen therapy
+ forehead mass
+treatment: endoscopic excision
+ bladder cancer
+treatment: photodynamic therapy
+ tubal pregnancy
+treatment: conservative surgery for tubal pregnancy
+ interstitial pregnancy with subsequent hysterosalpingography
+treatment: laparoscopic cornuostomy
+ postoperative fibrinoid syndrome in ophthalmology
+treatment: recombinant prourokinase and its immobilized forms
+ b16 melanoma
+treatment: adenosine triphosphate ; buthionine sulfoximine
+ uveal melanoma
+treatment: transpupillary thermotherapy
+ benign prostatic hyperplasia
+treatment: phytogenic drugs
+ rheumatic complaints
+treatment: trembling poplar , true goldenrod , and ash
+ degenerative diseases of the musculoskeletal system
+treatment: south african devil 's claw ( harpagophytum procumbens dc )
+ intrahepatic biliary obstruction
+treatment: percutaneous transhepatic biliary drainage and cholangioscopy
+ crohn 's disease
+treatment: ileocolonic anastomotic recurrence
+ advanced rectal cancer
+treatment: nerve-sparing surgery
+ locally advanced rectal adenocarcinoma
+treatment: preoperative radiotherapy and surgery
+ bronchiectasis
+treatment: current surgical therapy
+ hydatid disease
+treatment: thoracic surgery
+ postpneumonic empyema
+treatment: surgical treatment of postpneumonic empyema
+ pulmonary tuberculosis
+treatment: thoracoscopic surgery
+ spontaneous pneumothorax
+treatment: thoracoscopic surgery
+ chronic thromboembolic pulmonary hypertension
+treatment: surgery
+ noncirrhotic portal hypertension
+treatment: transabdominal extensive esophagogastric devascularization with gastroesophageal stapling
+ lung hydatid disease
+treatment: surgical treatment for lung hydatid disease
+ incisional hernia
+treatment: sliding door technique for the repair of midline incisional hernias
+ difficult airways
+treatment: one-lung ventilation
+ empyema
+treatment: thoracoscopy
+ asthma
+treatment: asthma
+ non-hodgkin 's lymphoma
+treatment: 
+ phaeochromocytoma
+treatment: adrenal-sparing surgery
+ acute cerebral ischemia
+treatment: antiplatelet therapy
+ 
+treatment: q-switched nd-yag laser
+ secondary pneumothorax
+treatment: thoracoscopic operation for secondary pneumothorax
+ troglitazone-induced hepatic failure leading to liver transplantation
+treatment: troglitazone
+ stridor
+treatment: modified technique of tubeless anaesthesia for microlaryngoscopy and bronchoscopy in young children with stridor
+ lactose intolerance
+treatment: lactobacillus acidophilus bg2fo4
+ idiopathic thrombopenic purpura
+treatment: intravenous immunoglobulin
+ scrub typhus
+treatment: azithromycin
+ hyperopia
+treatment: excimer laser assisted in situ keratomileusis
+ advanced malignant melanoma
+treatment: recombinant interferon alfa-2a
+ renal cell carcinoma
+treatment: interferon
+ low-grade non-hodgkin 's lymphoma
+treatment: recombinant interferon alpha
+ odontogenic infections
+treatment: antimicrobial treatment options in the management of odontogenic infections
+ squamous cell carcinoma of the head
+treatment: induction chemotherapy with docetaxel , cisplatin , fluorouracil , and leucovorin
+ relapsing-remitting multiple sclerosis
+treatment: low-dose steroids
+ postoperative analgesia
+treatment: epidural neostigmine
+ partial seizures
+treatment: lamotrigine monotherapy
+ unresectable colorectal cancer liver metastases
+treatment: 5-fluorouracil , leucovorin , oxaliplatin and surgery
+ ventral hernia repair
+treatment: laparoscopic ventral hernia repair
+ myocardial infarction
+treatment: aspirin monotherapy
+ mesenteric venous thrombosis
+treatment: intraarterial lytic therapy
+ myocardial infarction
+treatment: gene therapy
+ cerebrovascular disease
+treatment: dipyridamole plus aspirin
+ cancer
+treatment: cd40
+ advanced recurrent malignant cns tumors
+treatment: daunorubicin-containing liposomes
+ retinoblastoma
+treatment: gene therapy
+ barrett 's esophagus
+treatment: acid suppression therapy
+ defecatory disorders
+treatment: surgical approaches to pediatric defecatory disorders
+ retinal
+treatment: lutein
+ colchicine
+treatment: colchicine
+ severe pulmonary limited applications
+treatment: ippb
+ myocardial infarction
+treatment: anticoagulants
+ occupational disability
+treatment: surgical treatment of habitual shoulder dislocation
+ infectious mononucleosis
+treatment: corticosteroid therapy
+ uterine cervix insufficiency during the 2d trimester of pregnancy
+treatment: surgical treatment of uterine cervix insufficiency during the 2d trimester of pregnancy
+ depression
+treatment: physiologic treatment of depressive
+ atrial fibrillation
+treatment: quinidine sulphate
+ eimeria infections of chicks
+treatment: synergism in the chemotherapy of eimeria infections of chicks
+ hydrocele and cysts of the epididymis
+treatment: sclerosing injections of quinine and urea chlorhydrolactate in a 30 per cent solution
+ decompression accidents
+treatment: single-place caisson
+ burn therapy
+treatment: blood volume measurements in burn therapy
+ hypertrophic obstructive cardiomyopathy ( idiopathic hypertrophic subaortic stenosis )
+treatment: surgery
+ autoimmune hemolytic anemia
+treatment: heparin
+ endometrial hyperplasia
+treatment: clomiphene citrate
+ hypertension in pregnancy
+treatment: methyldopa
+ epithelial ovarian cancer
+treatment: chemotherapy
+ hodgkin 's disease
+treatment: interferon-alpha-2b
+ hiv infection
+treatment: thalidomide
+ diabetes mellitus
+treatment: aspirin
+ type i diabetic patients
+treatment: pancreas-/kidney transplantation
+ sciatica
+treatment: corticosteroid injections
+ prostate cancer
+treatment: flutamide plus castration
+ myofascial trigger points
+treatment: electrical nerve stimulation and electrical muscle stimulation
+ non-hodgkin lymphoma
+treatment: low-dose irradiation
+ coronary heart disease
+treatment: drug therapy for coronary heart disease
+ hydatid cysts
+treatment: percutaneous drainage of hydatid cysts
+ ectopia lentis
+treatment: surgery
+ breast cancer
+treatment: high-dose chemotherapy with autologous hematopoietic stem-cell support
+ anal cancer
+treatment: radiotherapy ; chemotherapy
+ breast cancer
+treatment: high-dose therapy
+ rectal prolapse
+treatment: anal continence after surgery for rectal prolapse
+ cardiovascular disease
+treatment: aspirin
+ lower respiratory tract infection
+treatment: amoxicillin/clavulanate
+ intraabdominal infections
+treatment: ampicillin-sulbactam
+ severe meningococcal disease
+treatment: new therapies for severe meningococcal disease
+ noninsulin-dependent diabetes mellitus
+treatment: troglitazone
+ testicular cancer
+treatment: psychological therapy
+ hiv
+treatment: antiretroviral agents
+ acromegaly
+treatment: long-acting octreotide ( sandostatin-lar )
+ hodgkin 's disease
+treatment: abvd and mopp/abv
+ lymphoma
+treatment: paclitaxel
+ asthma
+treatment: montelukast
+ schizophrenia and other psychiatric disorders
+treatment: atypical antipsychotic agents
+ renovascular disease
+treatment: percutaneous transluminal angioplasty
+ advanced carcinoma of the esophagus and cardia
+treatment: esophageal intubation for palliative treatment in advanced carcinoma of the esophagus and cardia
+ prostate cancer
+treatment: neoadjuvant androgen deprivation therapy in combination with radical prostatectomy
+ peptic ulceration
+treatment: surgery for peptic ulceration
+ acute respiratory failure
+treatment: noninvasive positive-pressure ventilation ; conventional mechanical ventilation
+ thalassemia major
+treatment: deferiprone
+ non-small-cell lung cancer
+treatment: positron emission tomography
+ thoracic wall defects after tumor resection
+treatment: gore-tex patch
+ acute repetitive seizures
+treatment: rectal diazepam gel
+ exercise-induced asthma
+treatment: salmeterol
+ breast cancer
+treatment: cyclophosphamide , epirubicin , and fluorouracil chemotherapy
+ venous thromboembolism
+treatment: low-molecular-weight heparins
+ benign prostatic hyperplasia
+treatment: watchful waiting
+ schizophrenia
+treatment: antipsychotic medication
+ aml
+treatment: ida-flag ( idarubicin , fludarabine , cytarabine , g-csf )
+ pulmonary hypertension
+treatment: single or double lung transplantation
+ multiple sclerosis
+treatment: interferon beta
+ prostate carcinoma
+treatment: transperineal sonography-guided iodine-125 brachytherapy with or without 45-gray external beam irradiation
+ persistent neonatal hyperinsulinaemic hypoglycaemia
+treatment: partial or near total pancreatectomy
+ prostate cancer
+treatment: radical prostatectomy for prostate the perineal approach
+ recurrent anterior dislocation of the shoulder
+treatment: open capsulorrhaphy with suture anchors for recurrent anterior dislocation of the shoulder
+ multiple sclerosis
+treatment: intravenous immunoglobulin
+ metastatic colorectal cancer
+treatment: irinotecan ; fluorouracil
+ normal-tension glaucoma
+treatment: intraocular pressure reduction
+ acute myocardial infarction
+treatment: thrombolytic treatment
+ digital ring block
+treatment: lignocaine or bupivacaine
+ lateral epicondylitis
+treatment: steroids
+ de quervain 's tenosynovitis
+treatment: steroids
+ dog bite
+treatment: antibiotics
+ first anterior shoulder dislocation
+treatment: immobilisation
+ acoustic neuroma
+treatment: stereotactic radiosurgery
+ rheumatoid arthritis
+treatment: anticytokine therapy
+ malignant hyperpyrexic syndrome
+treatment: dantrolene sodium
+ severe combined immunodeficiency
+treatment: hematopoietic stem-cell transplantation
+ drug-induced psychosis in parkinson 's disease
+treatment: low-dose clozapine
+ depression
+treatment: fluoxetine ; venlafaxine
+ hepatitis c
+treatment: interferon
+ cerebral palsy
+treatment: hyperbaric oxygen therapy
+ diabetic vitreous hemorrhage in phakic patients
+treatment: peripheral retinal cryotherapy for postvitrectomy diabetic vitreous hemorrhage in phakic patients
+ carbon monoxide poisoning
+treatment: hyperbaric or normobaric oxygen
+ epilepsy
+treatment: vigabatrin ( sabril )
+ cancer
+treatment: matrix metalloproteinase inhibitors
+ solid tumors
+treatment: high dose cyclophosphamide
+ supratentorial cavernous malformations
+treatment: microsurgical treatment of supratentorial cavernous malformations
+ infratentorial malformations
+treatment: microsurgical treatment of infratentorial malformations
+ deep brain cavernous malformations
+treatment: stereotactic radiosurgery
+ chronic hepatitis c
+treatment: interferon-antibodies and the breakthrough phenomenon during ribavirin/interferon-alpha combination therapy and interferon-alpha monotherapy of patients with chronic hepatitis c
+ barrett esophagus
+treatment: argon plasma coagulation with acid suppression
+ pancreatic fluid collections
+treatment: transmural drainage of pancreatic fluid collections without electrocautery using the seldinger technique
+ hypertrophic obstructive cardiomyopathy
+treatment: ethanol septal reduction
+ growth hormone ( gh ) effect of substitutive gh therapy
+treatment: gh effect of substitutive gh therapy
+ balding in men
+treatment: medical treatments for balding in men
+ carbon monoxide poisoning
+treatment: hyperbaric metabolic acidosis
+ depression
+treatment: medication received by patients with depression following the acute adequacy and relation to outcome
+ autoimmune thrombocytopenic purpura
+treatment: splenectomy
+ sleep-wake cycle disorders
+treatment: melatonin
+ cisplatin-induced emesis
+treatment: cj-11 , 974
+ intraocular pressure
+treatment: cataract surgery
+ temporomandibular joint arthropathy
+treatment: arthroscopic treatment of temporomandibular joint arthropathy
+ acute colonic pseudo-obstruction
+treatment: neostigmine
+ chronic anal fissure
+treatment: botulinum toxin and nitroglycerin ointment
+ severe secondary peritonitis
+treatment: surgical management of severe secondary peritonitis
+ supratentorial intracerebral a
+treatment: early surgical treatment for supratentorial intracerebral a
+ separation-related problems in dogs
+treatment: clomipramine
+ influenza
+treatment: zanamivir
+ primary operable breast cancer
+treatment: biologic markers
+ hypertension
+treatment: ascorbic acid
+ postoperative peritonitis
+treatment: intubation and continuous intraluminal irrigation
+ open-bite treatment with the thera-spoon
+treatment: open-bite treatment with the thera-spoon
+ colorectal cancer
+treatment: hepatic arterial infusion of chemotherapy after resection of hepatic metastases from colorectal cancer
+ colorectal cancer
+treatment: definitive trial of hepatic arterial chemotherapy for colorectal cancer
+ ovarian cancer
+treatment: cisplatin ; paclitaxel
+ head lice
+treatment: permethrin
+ diverticular hemorrhage
+treatment: colonoscopy
+ parkinson 's disease
+treatment: dopamine agonist
+ pulmonary embolism
+treatment: low-molecular-weight heparin
+ breast-conserving treatment for ductal carcinoma in first results of the eortc randomised phase iii trial 10853
+treatment: radiotherapy
+ opioid dependence
+treatment: methadone maintenance vs 180-day psychosocially enriched detoxification for treatment of opioid dependence
+ hemangiomas
+treatment: cryogen spray cooling during yag laser treatment of hemangiomas
+ cancer
+treatment: gene therapy
+ asthma
+treatment: dry powdered formoterol , twice a day ; aerosolized salbutamol , four times a day
+ arthritis
+treatment: celecoxib
+ groin hernia surgery
+treatment: mesh plug repair and groin hernia surgery
+ glaucoma
+treatment: brimonidine tartrate 0.2 % twice vs timolol 0.5 % twice daily
+ infections associated with gangrenous and perforated appendicitis
+treatment: ticarcillin/clavulanate versus imipenem/cilistatin
+ acute coronary syndromes
+treatment: antithrombotic therapy
+ chronic renal failure
+treatment: warfarin
+ peripheral vascular disease
+treatment: antiplatelet therapy
+ urinary tract infection
+treatment: fluoroquinolones
+ vasoreactivity and thrombogenicity
+treatment: laser-thermal comparison with balloon angioplasty
+ epithelial ovarian cancer
+treatment: high-dose chemotherapy with autologous stem-cell support
+ urinary incontinence
+treatment: pelvic floor stimulation
+ epilepsy
+treatment: chronic vagus nerve stimulation
+ multiple myeloma
+treatment: tandem high-dose chemoradiotherapy with autologous stem-cell support
+ lymphedema
+treatment: pneumatic compression pumps
+ pressure group 1
+treatment: special pressure-reducing support surfaces
+ recurrent spontaneous abortion
+treatment: intravenous immune globulin
+ chronic stable angina pectoris
+treatment: external counterpulsation
+ osteoarthritis of the knee
+treatment: intra-articular hyaluronan injections
